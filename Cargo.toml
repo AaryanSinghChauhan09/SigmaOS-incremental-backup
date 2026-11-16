@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-incremental-backup"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS incremental-backup component - backup"
+
+[lib]
+name = "incremental_backup"
+path = "src/lib.rs"
