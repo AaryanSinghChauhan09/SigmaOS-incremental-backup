@@ -3,7 +3,7 @@ name = "SigmaOS-incremental-backup"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "incremental-backup component"
+description = "Incremental Backup"
 upstream = []
 
 [contract]
